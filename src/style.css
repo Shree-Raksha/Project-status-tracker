@@ -1,0 +1,419 @@
+
+ .bck{
+  text-align: center;
+  background-image: url("https://www.mupwebdesign.com/assets/website.jpg"); 
+   /* background:url("../../Components/Signin/signinpage.css")  */
+  min-height:100%;
+  min-width: 100%;
+  position: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.logoheader{
+  vertical-align: middle;
+border-style: none;
+height: 65px;
+width: 206px;
+}
+.bck1{
+  text-align: center;
+  background-image: url("https://data.1freewallpapers.com/detail/laptop-keyboard-glow-dark.jpg"); 
+   /* background:url("../../Components/Signin/signinpage.css")  */
+  min-height:100%;
+  min-width: 100%;
+  position: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.bck3{
+  text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbxp_WMFJtdPl5gJyPO6GYCSr47xjqnK38Ew&usqp=CAU"); 
+   /* background:url("../../Components/Signin/signinpage.css")  */
+  min-height:100%;
+  min-width: 100%;
+  position: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.space{
+  padding-top: 20%;
+}
+.homepagebox{
+  padding: 1em 3em;
+  max-width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  position: relative;
+  padding-bottom: 6%;
+  background-color: #1801016b;
+  box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+  color: #ffffffd9;
+  margin-bottom: -2px;
+  padding-top: 85px;
+  margin-top: 100px;
+
+
+}
+.homepageboxcreateprj{
+  padding: 1em 3em;
+  max-width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  position: relative;
+  padding-bottom: 6%;
+  background-color: #1801016b;
+  box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+  color: #ffffffd9;
+  margin-bottom: -2px;
+  padding-top: 85px;
+  margin-top: -13px;
+}
+.homepageboxdislist{
+  padding: 1em 3em;
+  max-width: 80%;
+  margin-right: 0%;
+  margin-left: 10%;
+  position: relative;
+  padding-bottom: 6%;
+  background-color: #560b2f6b;
+  box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+  color: #ffffffd9;
+  margin-bottom: -2px;
+
+}
+.logogif{
+  height: 50%;
+  width: 30%;
+}
+.pinkbtn{
+  font-size: 16px;
+  background-color: #e61ba2;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+  border-color: none;
+}
+.pinkbtn:hover {
+  background-color: #2536ce;
+  color: #ffffffee;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  color: #2199df;
+  text-decoration: unset;
+}
+ul {
+  margin-left: 1.5rem;
+  list-style: none;
+}
+button,
+input[type="submit"] {
+  border: none;
+  background: none;
+  color: unset;
+  cursor: pointer;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li {
+  margin-top: 1em;
+  margin-bottom: 1em;
+ 
+}
+.page {
+  padding: 1rem;
+}
+
+.Dashboard_title{
+  color:rgba(245, 245, 245, 0.932);
+  font-size: xx-large;
+  font-style: italic;
+  margin-top: 119px;
+  font-family: cursive;
+  margin-right: 44px;
+
+}
+
+
+/* header */
+
+#header {
+
+  height: 60px;
+  display: flex;
+  
+  align-items: center;
+  background: rgb(29,2,28);
+  background: linear-gradient(90deg, rgba(29,2,28,1) 28%, rgba(106,15,86,0.7346288857339811) 52%, rgba(3,25,56,1) 75%);
+}
+ .title {
+  margin: 0;
+  padding: 0 1rem;
+  color: #ffffffee;
+  margin-left: -92px;
+  margin-right: 294px;
+}
+
+#header .auth-options {
+  height: 50%;
+  display:inline-flex
+}
+
+
+
+.button{
+  padding: 0 1rem;
+  margin-right: 4px;
+  background-color: #0d45adf5;
+  color: #ffffffee;
+  font-size: 1.1rem;
+  border: none;
+  padding: 10px 30px;
+  text-align: center;
+  font-size: 16px;
+  margin-right: -320px;
+  margin-left: 330px;
+}
+.buttonloginlogout{
+  padding: 0 1rem;
+  margin-right: 4px;
+  background-color: #0d45adf5;
+  color: #ffffffee;
+  font-size: 1.1rem;
+  border: none;
+  padding: 10px 30px;
+  text-align: center;
+  font-size: 16px;
+  margin-right: -320px;
+  margin-left: 330px;
+}
+
+
+#header .buttonaa:hover {
+  background-color: #300b61;
+  color: #ffffffee;
+}
+.prjDivisionBtn {
+  background-color: #290c96;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-bottom: 25px;
+}
+
+
+/* form */
+
+.form label,
+.form input {
+  display: block;
+}
+
+.form input {
+  margin-bottom: 1rem;
+}
+.form label {
+  margin-bottom: 0.2rem;
+  font-size: 20px;
+}
+.form input[type="text"],
+.form input[type="email"],
+.form input[type="password"] {
+  width: 100%;
+  padding: 0.3rem;
+  border: 1px solid #c2c2c2;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+  font-size: 1.1rem;
+}
+.form input:focus {
+  border: 1px solid #50a4e9;
+  box-shadow: inset 0px 0px 5px rgba(38, 142, 228, 0.5);
+  outline: none;
+}
+.form input[type="submit"] {
+  padding: 0.3rem 0.5rem;
+  border: 1px solid #6aa051;
+  border-radius: 8px;
+  background-color: #c8ecb7;
+  font-size: 1.1rem;
+}
+.form-control-lg {
+  height: calc(1.5em + 1rem + 2px);
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+  margin-left: 35px;
+}
+
+/* error notice */
+
+.error-notice {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  border: 1px solid #e07c7c;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8d6d6;
+  color: black;
+}
+.error-notice button {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #df4343;
+  color: #ffffff;
+}
+.Calendar {
+  display:inline-block;
+  font-size: 0.7rem;
+  width: 30%;
+  
+}
+
+element.style {
+}
+.react-calendar, .react-calendar *, .react-calendar *:before, .react-calendar *:after {
+    box-sizing: border-box;
+}
+.react-calendar {
+    width: 350px;
+    max-width: 100%;
+    background: white;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+    color: black;
+}
+
+.pinkbtncreate{
+  font-size: 15px;
+  background-color: #e61ba2;
+  border: none;
+  color: white;
+  padding: 3px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 0px;
+  margin-left: 10px;
+
+}
+
+/* Display list */
+.displaybtn{
+background-color: #290c96;
+border: none;
+color: white;
+padding: 5px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 15px;
+margin: 2px;
+cursor: pointer;
+}
+
+.displaybtn1{
+  background-color: #a70c0cd4;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 2px;
+  cursor: pointer;
+  }
+
+/* table */
+
+.table1 .thead-dark th {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #454d55;
+}
+.table1 thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+.table1 thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+.table1 th, .table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+.table1 td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.table1 {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #fefeff;
+}
+.bckdiplsay{
+  text-align: center;
+  background-image: url("https://data.1freewallpapers.com/detail/laptop-keyboard-glow-dark.jpg"); 
+   /* background:url("../../Components/Signin/signinpage.css")  */
+  min-height:100%;
+  min-width: 100%;
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+
+
+}
+.row_row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bluecreatebtn{
+  font-size: 16px;
+background-color: #2d1be691;
+border: none;
+color: white;
+padding: 5px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin-top: 10px;
+}
+.bluecreatebtn:hover {
+  background-color: #2536ce;
+  color: #ffffffee;
+}
+  
+

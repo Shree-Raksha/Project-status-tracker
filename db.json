@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Raksha",
+      "PSI": "PSI-2126",
+      "status": "20%",
+      "task": "installation",
+      "date": "2020-11-25",
+      "id": 1
+    },
+    {
+      "name": "vidya",
+      "PSI": "PSI-2125",
+      "status": "60%",
+      "task": "coding",
+      "date": "2020-11-27",
+      "id": 2
+    },
+    {
+      "name": "meera, sia, raghu",
+      "PSI": "PSI-2832,PSI-12,PSI-122",
+      "status": "100%",
+      "task": "coding",
+      "date": "2020-11-29",
+      "id": 3
+    },
+    {
+      "name": "riya",
+      "PSI": "PSI-3333",
+      "status": "50",
+      "task": "create frontend",
+      "date": "2020-11-24",
+      "id": 4
+    }
+  ]
+}
