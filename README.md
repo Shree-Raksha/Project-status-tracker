@@ -1,4 +1,4 @@
-# Project-status-tracker
+# Project-status-tracker (main folder)
 Run the code "nodemon server" for Db connection
 # Within backend folder
  Run the code "nodemon index"
